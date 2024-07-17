@@ -8,5 +8,10 @@
 <body>
     <h1>Hello word</h1>
     <p>Lorem, ipsum dolor.</p>
+
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
